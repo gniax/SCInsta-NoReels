@@ -40,6 +40,7 @@ BOOL dmVisualMsgsViewedButtonEnabled = false;
         @"dw_reels": @(YES),
         @"dw_story": @(YES),
         @"save_profile": @(YES),
+        @"disable_scrolling_reels": @(YES),
         @"dw_finger_count": @(3),
         @"dw_finger_duration": @(0.5)
     };

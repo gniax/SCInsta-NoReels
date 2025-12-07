@@ -147,7 +147,6 @@
             [self newSwitchCellWithTitle:@"Hide trending searches" detailTitle:@"Hides the trending searches under the explore search bar" key:@"hide_trending_searches" changeAction:nil],
             [self newSwitchCellWithTitle:@"No suggested chats" detailTitle:@"Hides the suggested broadcast channels in direct messages" key:@"no_suggested_chats" changeAction:nil],
             [self newSwitchCellWithTitle:@"No suggested users" detailTitle:@"Hides all suggested users for you to follow, outside your feed" key:@"no_suggested_users" changeAction:nil],
-            [self newSwitchCellWithTitle:@"Disable scrolling reels" detailTitle:@"Prevents reels from being scrolled to the next video" key:@"disable_scrolling_reels" changeAction:nil],
 
             // Section 7: Hide navigation tabs
             [self newSectionWithTitle:@"Navigation" footer:nil],
