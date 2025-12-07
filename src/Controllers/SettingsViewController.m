@@ -152,7 +152,6 @@
             [self newSectionWithTitle:@"Navigation" footer:nil],
             [self newSwitchCellWithTitle:@"Hide explore tab" detailTitle:@"Hides the explore/search tab on the bottom navbar" key:@"hide_explore_tab" changeAction:nil],
             [self newSwitchCellWithTitle:@"Hide create tab" detailTitle:@"Hides the create/camera tab on the bottom navbar" key:@"hide_create_tab" changeAction:nil],
-            [self newSwitchCellWithTitle:@"Hide reels tab" detailTitle:@"Hides the reels tab on the bottom navbar" key:@"hide_reels_tab" changeAction:nil],
 
             // Section 8: Security
             [self newSectionWithTitle:@"Security" footer:nil],
